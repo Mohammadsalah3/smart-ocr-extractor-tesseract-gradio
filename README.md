@@ -33,3 +33,6 @@ Upload a PDF, apply preprocessing (grayscale / resize / denoise / deskew / thres
 - Click **Apply Changes** to preview processed page
 - Click **Extract Text** to OCR all pages
 
+## Screenshot
+
+![App Screenshot](Tesserat_ui.png)
